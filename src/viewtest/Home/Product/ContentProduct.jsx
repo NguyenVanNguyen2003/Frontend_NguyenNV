@@ -676,7 +676,7 @@ function ContentProduct() {
                 </div>
             </div>
             <div className='contentproduct__other'>
-                <h2>Xe tương tự</h2>
+                <h2>Xe tương tự à</h2>
                 <Slider {...car__slider}>
                     {dataCarSlider.map((item) => (
                         <Link>
